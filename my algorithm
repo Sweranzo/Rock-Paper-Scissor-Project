@@ -1,0 +1,29 @@
+rock paper scissor game 
+create a function getComputerChoice
+get the computer move by using math random
+convert moves to 0 - 1 to 0 10
+divide 0-10 to 3 moves with rock paper and scissors
+turn the numbers into string, it must console.log paper rock and scissors
+if working proceed to next step
+first create a score list, create two variables that will define user score
+and computer score and increment it every win so therefore you have to set it 
+into = 0 value; 
+create a function that will get the userchoice 
+inside the function create a prompt that will get the move of the user
+return and thats it. 
+next create a function called playGame that will define whether you won 
+or computer won, 
+create two variables and put our given functions into value,
+also create a variable for result and define it inside if statements
+here we create an if statement to figure out who won
+make sure to define result and increment scores in every if else statement
+afterwards you have to display all of the moves,who won and the score by using
+alert
+make sure to display the alert if the statement is true if not dont display it
+if working proceed to last step
+
+create a function that will loop the game into 5 rounds call it function
+playGround use for loop statement make a research if you have to but please
+try to understand it and dont just copy and paste okay!, this lesson will be
+covered in the next lesson at course. 
+
